@@ -10,5 +10,8 @@ As a reminder, a test-taker is said to solve a task when, upon seeing the task f
 
 [Try the tasks ](./apps/testing_interface.html)
 
+fastest way to start is to choose random tasks:
+<img src="https://i.ibb.co/xsTpMM8/Screenshot-from-2020-10-02-19-38-04.png" alt="Screenshot-from-2020-10-02-19-38-04" border="0">
+
 
 all IP and copyrights go to the original authors, this is just hosted here for easier access: https://github.com/fchollet/ARC
